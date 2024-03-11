@@ -7,7 +7,7 @@ body{
 }
 
 .titre{
-    background-image: url(https://cdn.discordapp.com/attachments/727585664467730442/1216760943653027900/deer_wide.jpg?ex=66018fef&is=65ef1aef&hm=469aaf3b9c2ac5aff7dc8ab3a5a17ca9510e16111f539178b5106893a02f8038&);
+    background-image: url("https://cdn.discordapp.com/attachments/727585664467730442/1216760943653027900/deer_wide.jpg?ex=66018fef&is=65ef1aef&hm=469aaf3b9c2ac5aff7dc8ab3a5a17ca9510e16111f539178b5106893a02f8038&");
     background-size: 1600px;
     background-position-x: -170px;
     background-position-y: -230px;
